@@ -78,3 +78,7 @@ Passionate about building scalable applications, improving performance, and deli
 
 ---
 
+### 📈 GitHub Stats
+
+![Andriy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewT9&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewT9&layout=compact&theme=radical)
