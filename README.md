@@ -1,4 +1,4 @@
-# Hi there, I'm Andriy Tomysiak 👋
+# Hi there, I'm Andriy Tomusiak 👋
 
 💻 **frontend Developer**  
 📍 Based in Khmelnytskyi, Ukraine  
